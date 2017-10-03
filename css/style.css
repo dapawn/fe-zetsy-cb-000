@@ -28,3 +28,7 @@ img {
 
     padding: 1px;
 }
+
+img:hover {
+  border-color: #999;
+}
