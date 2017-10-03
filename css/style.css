@@ -24,10 +24,7 @@ h1 {
 }
 
 img {
-    border: 5px solid #021a40;
+    border: 5px solid #ccc;
 
-    border-width: 5px;
-    border-style: solid;
-    border-color: #ccc;
     padding: 1px;
 }
