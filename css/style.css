@@ -32,3 +32,8 @@ img {
 img:hover {
   border-color: #999;
 }
+
+#copy {
+  text-align: left;
+  font-size: 0.75em
+}
