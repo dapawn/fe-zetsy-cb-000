@@ -12,6 +12,8 @@ body {
 }
 
 .wrapper {
+  position: absolute;
+  top: 2px;
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
