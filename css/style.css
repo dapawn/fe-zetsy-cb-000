@@ -17,6 +17,8 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
   display: block;
+  position: relative;
+  top: -20px;
 }
 
 h1 {
