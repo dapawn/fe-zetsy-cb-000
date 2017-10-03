@@ -12,13 +12,11 @@ body {
 }
 
 .wrapper {
-  position: absolute;
-  top: 2px;
-  left: auto;
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+  display: block;
 }
 
 h1 {
