@@ -50,3 +50,6 @@ a#featured {
     color: rgb(23, 131, 187);
     text-decoration: none;
 }
+a#featured:hover {
+    text-decoration: underline;
+}
